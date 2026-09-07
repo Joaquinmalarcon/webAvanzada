@@ -1,5 +1,5 @@
 # Respuestas del laboratorio
-
+# Vicente Cisternas, Joaquín Muñoz
 ### Pregunta 1
 No se recomienda trabajar directamente en `main` porque es la rama estable. Es mejor usar una rama aparte para probar los cambios antes de integrarlos.
 
