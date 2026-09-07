@@ -13,6 +13,6 @@ describe('App', () => {
   fixture.detectChanges();
  const compiled = fixture.nativeElement as HTMLElement;
  expect(compiled.querySelector('h1')?.textContent)
- .toContain('CatáTítulo incorrectologo de Recursos');
+ .toContain('Catálogo de Recursos');
  });
 });
